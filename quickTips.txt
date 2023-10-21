@@ -1,0 +1,16 @@
+for nesting children elements use the ( > ) symbol 
+
+for ex . . . 
+
+section>.about#about>h3+p
+
+
+To do :
+
+links 
+
+resume 
+
+and form 
+
+lorem text 
