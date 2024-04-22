@@ -172,7 +172,6 @@ span {
 }
 
 .about-img img {
-  /* width: 35vw; */
   width: 440px;
 }
 
@@ -408,9 +407,9 @@ span {
     padding: 10rem 3% 2rem;
   }
 
-  .services {
-    /* padding-bottom: 3.5rem; */
-  }
+  /* .services {
+    padding-bottom: 3.5rem;
+  } */
 
   .portfolio {
     padding-bottom: 7rem;
